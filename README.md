@@ -1,4 +1,4 @@
-# minWatch
+# minWatch.js
 Minimal module to watch javascript object for changes.
 
 
