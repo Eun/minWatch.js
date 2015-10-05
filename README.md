@@ -16,7 +16,7 @@ minWatch(data, function(object, attr, oldValue, newValue)
 	{
 		newValue = 4;
 	}
-	console.log("Chainging ", object, attr, " to ", newValue)
+	console.log("Changing ", object, attr, " to ", newValue)
 	return newValue;
 });
 
