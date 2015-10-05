@@ -2,6 +2,7 @@
 Minimal module to watch javascript object for changes.
 
 ## Example
+```javascript
 	var data = {
 		"Key1": "Value1",
 		"Key2": 2,
@@ -25,3 +26,4 @@ Minimal module to watch javascript object for changes.
 
 	data["Key1"] = 'Test';
 	data["Key2"] = 3;
+```
